@@ -65,6 +65,7 @@ At the end of this training, the following are expected of me:
     3. Which store has the lowest unit?
  
 ### Data Visualization
+![image](https://github.com/user-attachments/assets/6b8420fe-9d47-4840-b87e-cf6f9fb069b9)
 
 
 
