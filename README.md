@@ -121,6 +121,8 @@ At the end of this training, the following are expected of me:
 ![image](https://github.com/user-attachments/assets/d2c1c32c-e05c-4710-be06-c4d92eb01c54)
 
 
+![image](https://github.com/user-attachments/assets/3b809e56-ef48-4f9b-b50e-d1bcc1842730)
+
 
   
 
