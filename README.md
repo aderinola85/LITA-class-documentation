@@ -77,6 +77,8 @@ At the end of this training, the following are expected of me:
 
  ![image](https://github.com/user-attachments/assets/686c6b8a-9c9f-4882-9fa7-04387fac7cc4)
 ![image](https://github.com/user-attachments/assets/28a1cc9c-652e-4c56-bf8a-59c5e078225e)
+![image](https://github.com/user-attachments/assets/985d1c6e-9c3b-45ec-9543-193b2141b17f)
+
 
 
    ### Region by Revenue
