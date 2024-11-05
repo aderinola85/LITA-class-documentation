@@ -67,7 +67,10 @@ At the end of this training, the following are expected of me:
 ### Data Visualization
 ![image](https://github.com/user-attachments/assets/6b8420fe-9d47-4840-b87e-cf6f9fb069b9)
 
-![image](https://github.com/user-attachments/assets/6a892577-2e0c-4de4-9fbd-3a94b9cf69f5)
+![image](https://github.com/user-attachments/assets/6a892577-2e0c-4de4-9fbd-3a94b9cf69f5) 
+
+![image](https://github.com/user-attachments/assets/6ecaa29f-303a-4362-a4f2-060756694fc9)
+
 
  ### PIVOT TABLE:
  ![image](https://github.com/user-attachments/assets/9d1501a5-a451-49d0-80b2-04025f4cca25)
