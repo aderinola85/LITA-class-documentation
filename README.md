@@ -94,6 +94,7 @@ At the end of this training, the following are expected of me:
 
 
 
+![image](https://github.com/user-attachments/assets/2d4ef1fc-f5c4-4973-8f39-1367f3d381be)
 
 
 
