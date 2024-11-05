@@ -83,6 +83,7 @@ At the end of this training, the following are expected of me:
 
    ### Region by Revenue
    ![image](https://github.com/user-attachments/assets/591693db-b76a-42a2-a354-41d155587d12)
+![image](https://github.com/user-attachments/assets/989365fc-6470-4192-99e3-0afb2c4055f9)
 
 ![image](https://github.com/user-attachments/assets/b0eca7b8-6f9c-415a-8f34-9fa9450ce24f)
    ### FILTERED CHART FOR THE YEAR 2023 AND 2024
