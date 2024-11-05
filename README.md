@@ -75,6 +75,9 @@ At the end of this training, the following are expected of me:
  ### PIVOT TABLE:
  ![image](https://github.com/user-attachments/assets/9d1501a5-a451-49d0-80b2-04025f4cca25)
 
+ ![image](https://github.com/user-attachments/assets/686c6b8a-9c9f-4882-9fa7-04387fac7cc4)
+
+
    ### Region by Revenue
 ![image](https://github.com/user-attachments/assets/b0eca7b8-6f9c-415a-8f34-9fa9450ce24f)
    ### FILTERED CHART FOR THE YEAR 2023 AND 2024
