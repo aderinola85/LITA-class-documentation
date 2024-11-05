@@ -70,6 +70,7 @@ At the end of this training, the following are expected of me:
 ![image](https://github.com/user-attachments/assets/6a892577-2e0c-4de4-9fbd-3a94b9cf69f5) 
 
 ![image](https://github.com/user-attachments/assets/6ecaa29f-303a-4362-a4f2-060756694fc9)
+![image](https://github.com/user-attachments/assets/c73ad244-e3d3-4bb4-9c81-ae7e000fba97)
 
 
  ### PIVOT TABLE:
