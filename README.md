@@ -103,6 +103,7 @@ At the end of this training, the following are expected of me:
 
 ![image](https://github.com/user-attachments/assets/8d106cea-c892-4a37-a281-effa965a26a5)
 
+![image](https://github.com/user-attachments/assets/6f51aba0-420e-4b02-9bdd-9c0de54a6f91)
 
 
 
