@@ -66,17 +66,10 @@ At the end of this training, the following are expected of me:
  
 ### Data Visualization
 ![image](https://github.com/user-attachments/assets/6b8420fe-9d47-4840-b87e-cf6f9fb069b9)
-
-
-
-
-
-
-
-
-
-
+ ### PIVOT TABLE:
    ### Region by Revenue
+![image](https://github.com/user-attachments/assets/b0eca7b8-6f9c-415a-8f34-9fa9450ce24f)
+   ### FILTERED CHART FOR THE YEAR 2023 AND 2024
 
 
 
@@ -89,7 +82,8 @@ At the end of this training, the following are expected of me:
 
 
 
-   ### PIVOT TABLE:
+
+  
 
 
 
@@ -102,7 +96,7 @@ At the end of this training, the following are expected of me:
 
 
 
-   ### FILTERED CHART FOR THE YEAR 2014 AND 2015
+
 
   
     
